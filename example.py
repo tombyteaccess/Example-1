@@ -1,4 +1,4 @@
 import sys
 
 print("hello")
-sys.exit()
+sys.exit(0)
